@@ -1,0 +1,48 @@
+body {
+	line-height: 1.5;
+	background: papayawhip;
+	margin: 2%
+}
+table, tr, th, td, caption {
+	border: 1px solid ;  #e-resize;
+	font-family: 'courier New', courier;
+	border-collapse: collapse;
+	padding:0.6rem;
+}
+
+th:nth-child(odd) {
+background-color: #ddd
+}
+th:nth-child(even) {
+	background-color: #ddd
+}
+
+td {
+	background-color:smokewhite;
+}
+
+ol {
+font-size: 20px;
+
+}
+*{
+font-family: monospace;	
+}
+
+}
+a:visited{
+	color: purple;
+}
+a:hover{
+	color: dodgerblue;
+}
+a:active{
+	color: red;
+}
+ol {
+	list-style-type: decimal;
+}
+textarea{
+	letter-spacing:1px;
+	box-shadow: 1px 1px 1px #999;
+}
